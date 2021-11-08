@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Restricted Content"
+AuthUserFile /Users/soli/dev/bryanu/Associates/afs-205/week6/conf/.htpasswd
+Require valid-user
